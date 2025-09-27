@@ -6,6 +6,8 @@ This project was born out of a curiosity to understand the pulse of urban mobili
 Dashboard Preview
 The final interactive dashboard was built using Power BI. It's designed to give a clear, at-a-glance view of the most important insights.
 
+![Dashboard Preview](images/dashboard_screenshot.png))
+
 Tech Stack
 Data Processing & Analysis: SQL, Excel
 
